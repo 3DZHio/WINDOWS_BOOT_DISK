@@ -6,11 +6,11 @@
 
 </div>
 
-**Win11_25H2_English_x64.iso**
+**Win11_25H2_German_x64_v2.iso**
 https://www.microsoft.com/en-en/software-download/windows11
 
 **RUFUS**
-https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11p.exe
+https://github.com/pbatard/rufus/releases/download/v4.13/rufus-4.13.exe
 
 # ||| TREE |||
 ```
